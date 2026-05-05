@@ -1,0 +1,19 @@
+Row ID - Unique row identifier
+Order ID - Unique order number
+Order Date - Date when order was placed
+Ship Date - Date when order was shipped
+Ship Mode - Shipping method used
+Customer ID - Unique customer identifier
+Customer Name - Name of the customer
+Segment - Customer category
+Country - Country name
+City - City name
+State - State name
+Postal Code - Postal code of customer
+Region - Region of sales
+Product ID - Unique product identifier
+Category - Product category
+Sub-Category - Product sub category
+Product Name - Name of product
+Sales - Total sales amount
+new_feature - Sum of two numeric columns
